@@ -2,9 +2,9 @@
 
 **Resolve any shape at 512×512 in <10ms on a laptop GPU.**
 
-[![SSIM](https://img.shields.io/badge/SSIM-0.9196-brightgreen)](https://github.com/perpq/amortized-nca-siren)
-[![VRAM](https://img.shields.io/badge/VRAM-1.63GB-blue)](https://github.com/perpq/amortized-nca-siren)
-[![Inference](https://img.shields.io/badge/Inference-9.7ms-orange)](https://github.com/perpq/amortized-nca-siren)
+[![SSIM](https://img.shields.io/badge/SSIM-0.9196-brightgreen)](https://github.com/OneLastTry2025/amortized-nca-siren)
+[![VRAM](https://img.shields.io/badge/VRAM-1.63GB-blue)](https://github.com/OneLastTry2025/amortized-nca-siren)
+[![Inference](https://img.shields.io/badge/Inference-9.7ms-orange)](https://github.com/OneLastTry2025/amortized-nca-siren)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > **The Problem:** Neural Cellular Automata (NCA) require thousands of iterative steps to grow shapes. Scaling to 512×512 causes OOM errors on consumer GPUs (6GB).  
@@ -42,7 +42,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/perpq/amortized-nca-siren.git
+git clone https://github.com/OneLastTry2025/amortized-nca-siren.git
 cd amortized-nca-siren
 pip install -r requirements.txt
 
@@ -177,7 +177,7 @@ amortized-nca-siren/
 
 ## 📦 Pretrained Weights
 
-Download from [GitHub Releases](https://github.com/perpq/amortized-nca-siren/releases) or HuggingFace:
+Download from [GitHub Releases](https://github.com/OneLastTry2025/amortized-nca-siren/releases) or HuggingFace:
 
 ```bash
 # Via HuggingFace (recommended)
