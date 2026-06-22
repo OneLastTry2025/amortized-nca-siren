@@ -1,0 +1,1 @@
+# Amortized NCA with SIREN Decoder
